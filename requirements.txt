@@ -6,7 +6,7 @@ Werkzeug==0.15.3
 aniso8601==1.2.0
 click==6.6
 itsdangerous==0.24
-lxml==3.6.4
+lxml==4.6.3
 python-dateutil==2.5.3
 pytz==2016.7
 requests==2.11.1
